@@ -1,9 +1,11 @@
 {
+  "type": "module",
   "name": "jest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.25.0",
     "jest": "^27.4.7"
   },
   "devDependencies": {},
